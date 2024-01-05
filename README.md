@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto "Página de Login" é um home page para para a realização de um login ou registro de usuário. Para ver a animação feita com JavaScrip entre no link abaixo:
+O projeto "Página de Login" é uma home page para para a realização de um login ou registro de usuário. Para ver a animação feita com JavaScrip entre no link abaixo:
 
 - [Acesse o projeto finalizado (online). ](https://silverioesantos.github.io/LoginPage/)
 
